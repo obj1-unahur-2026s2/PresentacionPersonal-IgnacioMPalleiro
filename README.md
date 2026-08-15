@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Palleiro Ignacio Martin 
+- Vivo en Villa Tesei
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Este es como mi contacto numero 100 con github
+- No tengo mascotas
